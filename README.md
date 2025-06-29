@@ -106,4 +106,4 @@ project-root/
 
 ---
 
-**Author:** Your Name 
+**Author:** Rishikesh Bhatt
