@@ -105,5 +105,8 @@ project-root/
 - Sample batch data is provided in `sample_batch_data.csv`
 
 ---
+<img width="1120" height="581" alt="image" src="https://github.com/user-attachments/assets/666cab93-8691-48ab-980f-0081611bdb08" />
+
+
 
 **Author:** Rishikesh Bhatt
